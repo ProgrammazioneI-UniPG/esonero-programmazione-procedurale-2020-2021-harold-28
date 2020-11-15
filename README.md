@@ -1,6 +1,4 @@
-# esonero-programmazione-procedurale-2020-2021-harold-28
-# esonero-programmazione-procedurale-2020-2021-harold-28
-# esonero-programmazione-procedurale-2020-2021-harold-28
-# esonero-programmazione-procedurale-2020-2021-harold-28
-# esonero-programmazione-procedurale-2020-2021-harold-28
-# esonero-programmazione-procedurale-2020-2021-harold-28
+#Harold guerrero
+#matricola 325375
+esonero-programmazione-procedurale-2020-2021-harold-28
+
